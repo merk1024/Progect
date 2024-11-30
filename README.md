@@ -73,4 +73,4 @@
 3. Внесите изменения и закоммитьте их (`git commit -am 'Add new feature'`).
 4. Отправьте изменения в репозиторий (`git push origin feature-branch`).
 5. Откройте Pull Request.
-https://github.com/merk1024/Progect/blob/main/Screnhote/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-11-30%20172101.png
+([https://example.com/your-image.jpg](https://github.com/merk1024/Progect/blob/main/Screnhote/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-11-30%20172101.png))
