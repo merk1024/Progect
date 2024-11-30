@@ -1,0 +1,51 @@
+# Общие
+.DS_Store
+Thumbs.db
+
+# IDE/редакторы
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Логи
+*.log
+
+# Системные файлы
+ehthumbs.db
+Icon?
+desktop.ini
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+*.log
+
+# macOS
+*.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Прочее
+*.bak
+*.tmp
+*.swp
+*.swo
+*.orig
